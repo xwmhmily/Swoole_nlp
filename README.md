@@ -1,5 +1,11 @@
 # Use Swoole and Jieba to cut Chinese words
 
+### PHP-Jieba 官方文档
+https://github.com/fukuball/jieba-php
+
+### MiniHttp (Base on Swoole) 文档
+https://github.com/xwmhmily/miniHttp
+
 ### 安装
 - 安装 PHP 7+, Swoole 4+
 - git clone 至任一目录
